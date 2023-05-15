@@ -5,7 +5,7 @@ A PERL script to extract fasta sequences according to protein IDs
 1. Have PERL installed on the computer
 2. A list of query protein IDs, one in a row
 3. The fasta file covering the query proteins
-4. Put both files together with the code
+4. Put both files under the same directory with the code
 
 ## To run
 1. Open the extract_fasta_sequences.pl using Notepad++ or other text/code editing tool
